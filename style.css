@@ -1,0 +1,33 @@
+    body {
+      background-color: white;
+      font-family: Arial;
+      text-align: center;
+      padding-top: 100px;
+    }
+
+    #result-checker {
+      background-color: lightblue;
+      width: 300px;
+      margin: auto;
+      padding: 20px;
+      border-radius: 10px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    input {
+      padding: 10px;
+      font-size: 16px;
+      width: 80%;
+    }
+
+    button {
+      margin-top: 10px;
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: green;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
